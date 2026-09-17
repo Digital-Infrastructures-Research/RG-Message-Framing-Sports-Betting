@@ -2,15 +2,12 @@
 
 This repository contains the analysis code for:
 
-> [Manuscript title and author list — insert on deposit]
+> Evaluating Responsible-Gambling Message Framing Across Segments of High-Loss Online Sports Bettors: Evidence From Two Naturalistic Randomized Field Experiments
 > Psychology of Addictive Behaviors (submitted)
 
 ## Data availability
 
-Participant-level data used in this study were provided by Norsk Tipping
-(the Norwegian state-owned gambling operator) under a data-sharing agreement
-that does not permit public redistribution. **Raw or cleaned participant data
-are not included in this repository.**
+Participant-level data used in this study were provided by Norsk Tipping (the Norwegian state-owned gambling operator) under a data-sharing agreement that does not permit public redistribution. Raw or cleaned participant data are not included in this repository.
 
 The notebooks below take the analysis-ready files (`P10_final.csv` for
 Experiment 1, `P11_final.csv` for Experiment 2) as their starting point and
